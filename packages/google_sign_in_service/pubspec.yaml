@@ -16,7 +16,7 @@ dependencies:
     git:
       url: https://github.com/bizz84/codewithandrea_flutter_packages
       path: packages/firebase_auth_service
-  google_sign_in: ^4.5.1
+  google_sign_in: ^5.2.3
 
 dev_dependencies:
   flutter_test:
