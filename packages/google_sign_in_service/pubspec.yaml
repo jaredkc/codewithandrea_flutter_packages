@@ -14,7 +14,7 @@ dependencies:
   firebase_auth_service:
     #path: ../firebase_auth_service
     git:
-      url: https://github.com/bizz84/codewithandrea_flutter_packages
+      url: https://github.com/jaredkc/codewithandrea_flutter_packages
       path: packages/firebase_auth_service
   google_sign_in: ^5.2.3
 
