@@ -1,6 +1,6 @@
 name: email_password_sign_in_ui
 description: A new Flutter package project.
-version: 0.3.0
+version: 0.3.1
 author: Andrea Bizzotto
 homepage: https://www.codewithandrea.com
 publish_to: none
